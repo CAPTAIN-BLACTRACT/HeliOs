@@ -8,12 +8,11 @@ The primary goal of HeliOs is to develop a minimal CLI (Command Line Interface) 
 
 ## Current Status
 
-(Add details about current development status, features, and future plans here)
+
 
 ## Contributing
 
-(Add information about how others can contribute if this is an open-source project)
+
 
 ## License
 
-(Add license information here)
